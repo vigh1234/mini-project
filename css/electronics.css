@@ -1,0 +1,66 @@
+.mt{
+    margin-top: 50px;
+}
+.navbar-light{
+    background-color: white;
+    box-shadow: 3px 3px 8px black;
+    
+} 
+.nav-link{
+    font-size: large;
+    
+}
+h2{
+    font-family: cursive;
+    color: rgb(65, 62, 62);
+}
+.t{
+    padding-top: 40px;
+    padding-bottom: 15px;
+    background-color: rgb(232, 232, 232);
+}
+.tt{
+    padding-bottom: 20px;
+    background-color: rgb(232, 232, 232);
+}
+#chk1{
+    width: 15px;
+    height: 15px;
+}
+.fa-cart-shopping{
+    font-size: large;
+}
+#h:hover{
+    color: rgb(37, 68, 225);
+
+}
+.o{
+    padding-top: 28px;
+}
+.y{
+    padding-bottom: 50px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+#mobile{
+    padding-bottom: 40px;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+}
+#hr1 {
+    content: "";
+    height: 1px;
+    width: 80%;
+    margin-left: 130px;
+    background-color: white;
+}
+.fa-brands{
+    font-size:xx-large;
+}
+html{
+    scroll-behavior: smooth;
+}
+

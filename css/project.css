@@ -1,0 +1,162 @@
+body{
+    background:linear-gradient(to right,rgb(151, 151, 151),white);
+} 
+
+ .navbar-light{
+    background-color: white;
+    box-shadow: 3px 3px 8px black;
+    box-shadow: 3px3px3px black;
+} 
+.nav-link{
+    font-size: large;
+    
+}
+
+ h1,h2,h3{
+   
+    font-family: cursive;
+    color: rgb(65, 62, 62);
+}
+#srch{
+    border-radius: 5px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(80, 79, 79);
+    width: 53%;
+    height: 40px;
+}
+
+
+::placeholder{
+    font-size: large;
+    
+}
+#btn{
+    height: 40px;
+    width: 100px;
+}
+#gg{
+    background-image: url(images/shoess.jpg);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom:350px ;
+}
+#a{
+    background-color: lightgrey;
+    box-shadow: 3px 3px 20px rgb(11, 11, 11);
+}
+.fd{
+    background-color: white;
+    padding-bottom: 40px;
+    padding-top: 60px;
+}
+#btn:hover,#btn1:hover{
+    background-color: rgb(20, 77, 157);
+}
+.s{
+    font-size: large;
+    font-weight: bold;
+    font-family:cursive
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+#i1:hover{
+    opacity: 0.7;
+}
+#i1{
+    box-shadow: 3px 3px 6px rgb(72, 72, 72);
+    border-radius: 6px;
+}
+#rr{
+    margin-left: 40px;
+    box-shadow: 3px 3px 6px rgb(72, 72, 72);
+}
+#txt{
+    border-radius: 5px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(80, 79, 79);
+    width: 80%;
+    height: 50px;
+    background-color: whitesmoke;
+}
+#btn1{
+    height: 50px;
+    width: 100px;
+}
+#pp{
+    justify-content: end;
+    padding-top: 0px;
+    font-family:monospace;
+    
+}
+#btn2{
+    height: 40px;
+    width: 120px;
+}
+#bdr{
+    opacity: 0.7;
+}
+#rog{
+    font-weight: bold;
+}
+.j{
+    font-weight: bold;
+}
+bs{
+    text-decoration: line-through;
+}
+.text-end{
+    margin-top: -130px;
+}
+.fa-brands{
+    font-size:45px;
+}
+.k{
+    font-size: 35px;
+}
+.b{
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+.b:hover{
+    text-decoration: underline;
+}
+.border-start{
+    height: 320px;
+}
+html{
+    scroll-behavior: smooth;
+} 
+
+a{
+    text-decoration: none;
+    font-size: medium;
+}
+#hh{
+    font-family: sans-serif;
+    color: rgb(176, 46, 72);
+    font-size: xx-large;
+}
+#h{
+    font-size: xx-large;
+}
+.r{
+    font-size: larger;
+    justify-content: end;
+}
+.bg-sec{
+    background:linear-gradient(to right,rgb(151, 151, 151),white);
+}
+#hr1 {
+    content: "";
+    height: 1px;
+    width: 80%;
+    margin-left: 130px;
+    background-color: white;
+}
+.fa-brands{
+    font-size:xx-large;
+}

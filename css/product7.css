@@ -1,0 +1,66 @@
+.j{
+    padding-top: 100px;
+}
+.navbar-light{
+    background-color: white;
+    box-shadow: 3px 3px 6px rgb(86, 86, 86);
+}
+.nav-link{
+    font-size: large;
+    
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+.g{
+    background-color: rgb(207, 206, 206);
+    padding-bottom: 25px;
+    padding-top: 50px;
+    border-radius: 5px;
+    border-width: 1.5px;
+    border-style: ridge;
+    border-color: black;
+}
+#img1,#img2,#img3,#img4{
+    border-radius: 5px;
+    
+}
+.checked {
+    color: orange;
+}
+#h6{
+    color: rgb(53, 53, 53);
+    text-decoration: line-through;
+}
+.fa-circle-user{
+    font-size: xx-large
+}
+.f{
+    background-color: rgb(234, 233, 233);
+}
+.b:hover{
+    text-decoration: underline;
+}
+.b{
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+}
+#hr1 {
+    content: "";
+    height: 1px;
+    width: 80%;
+    margin-left: 130px;
+    background-color: white;
+}
+.fa-brands{
+    font-size:xx-large;
+}
+html{
+    scroll-behavior: smooth;
+}

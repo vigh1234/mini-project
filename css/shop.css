@@ -1,0 +1,78 @@
+.navbar-light{
+    background-color: white;
+    box-shadow: 3px 3px 10px black;  
+} 
+body{
+    background-image: url(images/32.jpg);
+    background-size: cover;
+}
+
+
+.hd{
+    padding-top: 80px;
+    padding-bottom: 35px;
+}
+h4{
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-decoration-color: rgb(31, 31, 31);
+}
+.bg-white{
+    border-radius: 7px;
+}
+.fixed-top{
+    background-color: rgb(255, 255, 255);
+}
+.p{
+    font-size: large;
+}
+.fa-trash{
+    font-size: x-large;
+    background-color: rgb(6, 100, 168);
+    padding: 7px;
+    border-radius: 3px;
+}
+.fa-heart{
+    font-size: x-large;
+    background-color: rgb(224, 62, 62);
+    padding: 7px;
+    padding-right: 6px;
+    padding-left: 6px;
+    border-radius: 3px;
+}
+.id{
+    font-size:medium
+}
+p{
+    font-size: medium;
+}
+.y{
+    font-weight: bold;
+}
+.ff{
+    width: 60px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.nav-link{
+    font-size: large;
+    
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+}
+#hr1 {
+    content: "";
+    height: 1px;
+    width: 80%;
+    margin-left: 130px;
+    background-color: white;
+}
+.fa-brands{
+    font-size:xx-large;
+}
+html{
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,101 @@
+.navbar-light{
+    background-color: white;
+    box-shadow: 3px 3px 10px black;  
+} 
+body{
+    background-image: url(images/32.jpg);
+    background-size: cover;
+}
+
+
+.hd{
+    padding-top: 80px;
+    padding-bottom: 35px;
+}
+h4{
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-decoration-color: rgb(31, 31, 31);
+}
+.bg-white{
+    border-radius: 7px;
+}
+.fixed-top{
+    background-color: rgb(255, 255, 255);
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.nav-link{
+    font-size: large;
+    
+}
+input{
+    width: 300px;
+    height: 35px;
+    border-width: 1px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px grey;
+}
+::placeholder{
+    padding-left: 20px;
+    font-size: large;
+}
+.b{
+    width: 652px;
+}
+.ui{
+    
+    border-radius: 7px;
+}
+.select{
+    width: 200px;
+    height: 35px;
+    border-width: 1px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px grey;
+}
+.kk{
+    width: 150px;
+    height: 35px;
+}
+
+.bh{
+    border-style:solid;
+    border-width: 1px;
+    width: 700px;
+    border-radius: 4px;
+}
+.uu{
+    width: 150px;
+}
+.fa-credit-card{
+    margin-left: -30px;
+    background-color: lightgray;
+}
+.uo{
+    width: 120px;
+}
+.fa-circle-info{
+    margin-left: -30px;
+}
+.vv{
+    width: 602px;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+}
+#hr1 {
+    content: "";
+    height: 1px;
+    width: 80%;
+    margin-left: 130px;
+    background-color: white;
+}
+.fa-brands{
+    font-size:xx-large;
+}
+html{
+    scroll-behavior: smooth;
+}

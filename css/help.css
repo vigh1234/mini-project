@@ -1,0 +1,79 @@
+body{
+    background-color: lightgray;
+}
+
+ .navbar-light{
+    background-color: white;
+    box-shadow: 3px 3px 8px black;
+    
+} 
+.nav-link{
+    font-size: large;
+    
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+ h1,h2{
+   
+    font-family: sans-serif;
+    color: rgb(65, 62, 62);
+}
+#srch{
+    border-radius: 5px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(80, 79, 79);
+    width: 53%;
+    height: 40px;
+}
+
+
+::placeholder{
+    font-size: large;
+    
+}
+#btn{
+    height: 40px;
+    width: 100px;
+}
+#gg{
+    background-image: url(images/lighthouse-2372461.jpg);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom:250px ;
+}
+#btn:hover,#btn1:hover{
+    background-color: rgb(20, 77, 157);
+}
+.bg-white{
+    padding-top: 30px;
+}
+#bt{
+    width: 80px;
+    height: 35px;
+}
+.bg-white{
+    box-shadow: 3px 3px 5px black;
+    border-radius: 6px;
+}
+
+a{
+    text-decoration: none;
+    font-size: medium;
+}
+#hr1 {
+    content: "";
+    height: 1px;
+    width: 80%;
+    margin-left: 130px;
+    background-color: white;
+}
+.fa-brands{
+    font-size:xx-large;
+}
+html{
+    scroll-behavior: smooth;
+}
+
